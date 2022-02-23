@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "product_name": "Nutrisnax Oat Digestive Biscuit 105g",
+        "carton_price": "150.00",
+        "unit_price": "15.00",
+        "description": "Oats Digestive Biscuits Zero percent Trans Fat Goodness Of Whole Wheat Enriched With High Fibre Goodness Of Oats Crunchy And Delicious. Nutrisnax is made for the consumer who wants a snack that is healthy, tasty and convenient to fit their changing lifestyle. The biscuit is a premium digestive biscuit rich in fiber and oats. It gives consumers the fine balance between healthy and tasty snack. ",
+        "category": "Biscuits"
+    },
+
+    {
+        "id": 2,
+        "product_name": "Choco Milo Energy Cubes 2.75gx50",
+        "carton_price": "248.00",
+        "unit_price": "26.00",
+        "description": "These Milo cubes are made from Original Nestle Milo and contains all nutritional benefits. Very tasty, compact, solid and melts in your mouth. Delicious Snack anywhere, anytime.Choco Milo is a popular Milo Energy Cube made in Ghana West Africa by Nestle Ghana. Each packet contains 50 cubes of delicious crunchy milo (2 pack=100 cubes).",
+        "category": "Toffees"
+    },
+    {
+        "id": 3,
+        "product_name": "Don Simon Cocktail 12 x 2.5L - Green Lion",
+        "carton_price": "156.00",
+        "unit_price": "13.00",
+        "description": "Don Simon Mango offers high quality fruit juice nectar with the goodness and taste of the finest select fruits. Contains real fruit fiber and is available. It is high in protein, rich in calcium and vitamins D, B2, and B12, and help to maintain a healthy diet.",
+        "category": "Drinks"
+    },
+    {
+        "id": 4,
+        "product_name": "Nescafe Classic Coffee, 100g",
+        "carton_price": "59.00",
+        "unit_price": "9.00",
+        "description": "Nescafé is a brand of coffee made by Nestlé. It comes in many different forms. The name is a portmanteau of the words 'Nestlé' and 'café'. Brewed coffee is an integral part of morning routines. But when consumers are on-the-go midday, they also reach for coffee mainly iced and specialty coffee drinks. Become the prime destination for coffee drinkers any time of day with black and specialty coffee beverages from NESCAFÉ®",
+        "category": "Beverages"
+    },
+    {
+        "id": 5,
+        "product_name": "Bailey Super Original Irish Cream",
+        "carton_price": "705.00",
+        "unit_price": "250.00",
+        "description": "We're very happy to welcome you to the third annual Baileys Treat Report; the most delicious way to explore our treat trend predictions for 2022. Once again, we've partnered with food futurologist, Dr Morgaine Gaye, to cast her expert eye on what we'll be treating ourselves with over the next 12 months, so let's dig into a few of our future favourites!",
+        "category": "Drinks"
+    }
+]
